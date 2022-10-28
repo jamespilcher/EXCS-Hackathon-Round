@@ -1,6 +1,6 @@
 # EXCS Hackathon Round
 
-You'll write a method that'll make an AI play tetris. Performance will be determined by highest score and creativity.
+Write a method that'll make an AI play tetris. Performance will be determined by highest score and creativity! Feel free to write your own functions and implement your own loops to find gaps.
 
 ## Instructions
 - Extract `tetris.py` and `tetris_ai.py` into a single folder.
@@ -17,6 +17,7 @@ You'll write a method that'll make an AI play tetris. Performance will be determ
 ## Submission
 
 - Email your tetris_ai.py to jp910@exeter.ac.uk
+- A MAXIMUM of 2 submissions per team, preferably in the same email.
 - Be sure to include your team name and a short summary of your implementation!
 
-All Code provided was made by Charlie Goldstraw, our 'CodeMaster'
+All Code provided was made by Charlie Goldstraw, our 'CodeMaster', (https://github.com/CGoldstraw/Hackathon)
