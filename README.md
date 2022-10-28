@@ -10,7 +10,7 @@ Write a method that'll make an AI play tetris. Performance will be determined by
 - Run the `tetris.py` file from a console or your IDE.
 
 ## Things to keep in mind:
-- Per 'tick' (defaulted to every 0.5 seconds), the piece will fall one square and you can either move it left, right, down or rotate it once.
+- Per 'tick' (default is every 0.5 seconds), the piece will fall one square and you can either move it left, right, down or rotate it once.
 - Get board information using board.tiles[x][y]
 - Crtl C will exit your program if you get stuck in a loop.
 
